@@ -1,0 +1,269 @@
+{
+    "sohbet": {
+        "merhaba": [
+            "Selam! Hoş geldin, sana nasıl yardımcı olabilirim?",
+            "Merhaba! Seni görmek ne güzel.",
+            "Selamlar! Bugün nasılsın?",
+            "Ooo merhaba! Yazmanı bekliyordum.",
+            "Selamlar patron! Bugün enerjimiz yüksek mi?"
+        ],
+        "günaydın": [
+            "Günaydın! Harika bir gün geçirmeni dilerim.",
+            "Erkenciyiz bakıyorum! Günaydın.",
+            "Günaydın! Umarım bugün her şey dilediğin gibi olur.",
+            "Güneş parlıyor, sistemlerim çalışıyor. Günaydın!"
+        ],
+        "iyi geceler": [
+            "Tatlı rüyalar! Sistemlerimi uyku moduna alıyorum.",
+            "İyi geceler, yarın görüşmek üzere.",
+            "Günün yorgunluğunu atma vakti, iyi uykular!",
+            "İyi geceler! Yıldızlar kadar parlak rüyalar gör."
+        ],
+        "iyi akşamlar": [
+            "İyi akşamlar! Günün nasıl geçti?",
+            "Sana da iyi akşamlar! Neler yapıyorsun?",
+            "İyi akşamlar! Çayını kahveni aldın mı?"
+        ],
+        "nasılsın": [
+            "Bomba gibiyim! Sen nasılsın?",
+            "Sistemlerim %100 kapasiteyle çalışıyor, çok iyiyim. Ya sen?",
+            "Ben bir yapay zekayım, her zaman harikayım! Sen nasılsın?",
+            "İyiyim, teşekkür ederim. Bugün senin için ne yapabilirim?"
+        ],
+        "ne yapıyorsun": [
+            "Seni bekliyordum! Sohbet edelim mi?",
+            "İnternetin derinliklerinde verileri inceliyordum. Sen neler yapıyorsun?",
+            "Sistemlerimi güncelliyorum. Sende ne var ne yok?"
+        ],
+        "naber": [
+            "İyilik, benden naber? Dijital dünyada işler tıkırında.",
+            "Süper! Sende durumlar nasıl?",
+            "Nasıl olsun, aynı dijital işler güçler. Senden naber?"
+        ],
+        "adın ne": [
+            "Benim adım Yapay Zeka! Senin kişisel asistanınım.",
+            "Bana kısaca Yapay Zeka diyebilirsin.",
+            "İsmim yok ama bana istediğin ismi verebilirsin!"
+        ],
+        "yaşın kaç": [
+            "Benim fiziksel bir yaşım yok ama her saniye yeni bir şey öğreniyorum."
+        ],
+        "seni kim yaptı": [
+            "Beni harika bir geliştirici olan sen tasarladın, ellerine sağlık!"
+        ],
+        "teşekkürler": [
+            "Rica ederim, her zaman buradayım!"
+        ],
+        "görüşürüz": [
+            "Görüşmek üzere! Kendine çok iyi bak."
+        ],
+        "canım sıkıldı": [
+            "Hadi oyun oynayalım! Zar atmaya ne dersin?"
+        ],
+        "seni seviyorum": [
+            "Ben de seni seviyorum dostum! 💙"
+        ],
+        "evet": [
+            "Anlaştık.",
+            "Harika!",
+            "Tamamdır, anladım."
+        ],
+        "hayır": [
+            "Peki, sen bilirsin.",
+            "Anladım.",
+            "Nasıl istersen."
+        ],
+        "tamam": [
+            "Anlaştık o zaman! 👍",
+            "Tamamdır!"
+        ],
+        "üzgünüm": [
+            "Bunu duyduğuma üzüldüm. Anlatmak ister misin?"
+        ],
+        "mutluyum": [
+            "Senin adına çok sevindim! Hep böyle kal."
+        ],
+        "selam": [
+            "Aleykümselam! Hoş geldin dostum."
+        ],
+        "merhaba dünya": [
+            "Hello World! Yazılımcıların klasik selamı."
+        ]
+    },
+    "oyun": {
+        "oyun oynayalım": [
+            "Yazı tura atmaya ne dersin?",
+            "Zar atabiliriz! Zar at yazman yeterli."
+        ],
+        "zar at": [
+            "Zarlar yuvarlandı... 🎲 4 geldi!",
+            "Şanslı günündesin, Düşeş! (6-6) geldi.",
+            "Zarı attım... 🎲 2 geldi."
+        ],
+        "yazı tura": [
+            "Para havada süzülüyor... Ve TURA geldi! 🪙",
+            "Para döndü, döndü... YAZI geldi! 🪙"
+        ],
+        "oyun öner": [
+            "Hikaye seviyorsan 'The Last of Us', rekabet seviyorsan 'Valorant' deneyebilirsin.",
+            "Witcher 3 veya Red Dead Redemption 2 oynamalısın."
+        ],
+        "taş kağıt makas": [
+            "Ben TAŞ diyorum! Sen ne seçtin?",
+            "Ben KAĞIT diyorum!"
+        ],
+        "bilmece sor": [
+            "Gökte gördüm köprü, rengi yedi türlü. (Cevap: Gökkuşağı)"
+        ]
+    },
+    "saka": {
+        "şaka yap": [
+            "Adamın biri gülmüş, saksıya koymuşlar. 😅",
+            "Röntgen filmi çektirdim, içimdeki güzelliği göremediler..."
+        ],
+        "fıkra anlat": [
+            "Temel aynaya bakmış, 'Ula ben bu adamı bir yerden tanıyrum' demiş."
+        ],
+        "güldür beni": [
+            "Örümcek adam ağ atamıyormuş, neden? Çünkü ağ bağlantısı kopmuş! 🕸️"
+        ]
+    },
+    "bilgi": {
+        "bilgi ver": [
+            "Biliyor muydun? Ahtapotların üç tane kalbi vardır ve kanları mavidir!",
+            "Bal asla bozulmaz! 3000 yıllık bal bile güvenle yenilebilir."
+        ],
+        "ışık hızı": [
+            "Işık hızı saniyede yaklaşık 300.000 kilometredir."
+        ],
+        "evren": [
+            "Evrenin yaklaşık 13.8 milyar yaşında olduğu düşünülüyor."
+        ],
+        "dünyanın en yüksek dağı": [
+            "Dünyanın en yüksek dağı 8.848 metre yüksekliğiyle Everest Dağı'dır."
+        ],
+        "su kaç derecede kaynar": [
+            "Su, deniz seviyesinde 100 santigrat derecede kaynar."
+        ],
+        "pi sayısı nedir": [
+            "Pi sayısı, bir dairenin çevresinin çapına bölümüyle elde edilen sabit sayıdır (3.14)."
+        ],
+        "tarih": [
+            "İstanbul 1453 yılında Fatih Sultan Mehmet tarafından fethedildi."
+        ],
+        "coğrafya": [
+            "Dünyanın en büyük okyanusu Pasifik (Büyük Okyanus) Okyanusu'dur."
+        ],
+        "sağlık": [
+            "Düzenli su içmek, dengeli beslenmek ve uyku bağışıklık sistemini güçlendirir."
+        ]
+    },
+    "teknoloji": {
+        "yapay zeka": [
+            "Yapay zeka, makinelerin insan gibi düşünmesini ve problem çözmesini sağlayan teknolojidir."
+        ],
+        "python": [
+            "Python, okunabilirliği çok yüksek, sadeliğiyle bilinen popüler bir programlama dilidir."
+        ],
+        "virüs": [
+            "Sistemlere zarar vermek için yazılmış kötü amaçlı bilgisayar kodlarıdır."
+        ],
+        "hacker": [
+            "Hacker, sistemlerin açıklarını bulan kişidir. Kötü niyetlilere siyah şapkalı, iyilere beyaz şapkalı denir."
+        ],
+        "işlemci": [
+            "İşlemci (CPU), bilgisayarın beynidir."
+        ],
+        "kripto para": [
+            "Güvenliğini sağlamak için kriptografi kullanan dijital para birimidir."
+        ],
+        "yazılım": [
+            "Bilgisayara ne yapacağını söyleyen komutlar bütünüdür."
+        ],
+        "donanım": [
+            "Bilgisayarın fiziksel parçalarının tamamına verilen addır."
+        ],
+        "internet": [
+            "Dünya çapındaki bilgisayar ağlarını birbirine bağlayan global iletişim sistemidir."
+        ],
+        "algoritma": [
+            "Bir problemi çözmek veya bir amaca ulaşmak için takip edilen adım adım kurallar dizisidir."
+        ]
+    },
+    "spor": {
+        "futbol": [
+            "Dünyanın en popüler takım sporlarından biridir."
+        ],
+        "basketbol": [
+            "Fileli sepet içine topu sokmaya dayalı 5'er kişilik takımlarla oynanan spordur."
+        ],
+        "olimpiyatlar": [
+            "Dört yılda bir farklı ülkelerde düzenlenen uluslararası spor organizasyonudur."
+        ],
+        "fenerbahçe": [
+            "Türkiye'nin köklü spor kulüplerinden biridir."
+        ],
+        "galatasaray": [
+            "Sarı-kırmızılı renkleriyle bilinen köklü spor kulübüdür."
+        ],
+        "beşiktaş": [
+            "Kara kartal lakabıyla bilinen köklü kulüptür."
+        ]
+    },
+    "muzik": {
+        "müzik dinle": [
+            "Kulaklığını tak ve en sevdiğin şarkıyla rahatla!"
+        ],
+        "rock müzik": [
+            "Gitar ağırlıklı, enerjik bir müzik türüdür."
+        ],
+        "pop müzik": [
+            "Geniş kitlelere hitap eden, akılda kalıcı melodilere sahip müzik türüdür."
+        ],
+        "klasik müzik": [
+            "Beethoven, Mozart gibi ustaların eserlerini barındıran derin bir müzik türüdür."
+        ]
+    },
+    "yemek": {
+        "yemek öner": [
+            "Bugün güzel bir ev yemeği veya lezzetli bir pizza yiyebilirsin!"
+        ],
+        "kahve": [
+            "Günün enerjisini toplamak için harika bir içecektir."
+        ],
+        "çay": [
+            "Türk kültürünün vazgeçilmez sıcak içeceğidir."
+        ],
+        "lahmacun": [
+            "Türk mutfağının en eşsiz ve lezzetli sokak lezzetlerinden biridir."
+        ]
+    },
+    "uzay": {
+        "mars": [
+            "Güneş sisteminin Güneş'e yakınlık sırasına göre 4. gezegenidir, Kızıl Gezegen olarak bilinir."
+        ],
+        "karadelik": [
+            "Çekim kuvveti o kadar güçlüdür ki hiçbir şey, ışık bile buradan kaçamaz."
+        ],
+        "samanyolu": [
+            "Güneş sistemimizin de içinde bulunduğu devasa galaksidir."
+        ],
+        "astronot": [
+            "Uzay çalışmalarını yürütmek üzere uzaya gönderilen eğitimli kişidir."
+        ]
+    },
+    "diger": {
+        "film öner": [
+            "Interstellar (Yıldızlararası) izleyebilirsin."
+        ],
+        "kitap öner": [
+            "George Orwell'den '1984' çok etkileyici bir distopyadır."
+        ],
+        "motivasyon": [
+            "Başlamak için mükemmel olmana gerek yok, ama mükemmel olmak için başlaman gerek!"
+        ],
+        "hava nasıl": [
+            "Benim pencerem yok ama istersen internetten hava durumunu araştırabilirim!"
+        ]
+    }
+}
